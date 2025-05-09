@@ -16,7 +16,11 @@ Pensado en los costos de envio como un costo realizado por la tienda se obtuvo u
 
 ## Ejemplo de las graficas usadas.
 
-[download](https://github.com/user-attachments/assets/8c2b6ae5-778f-4960-a350-2e65b48da38a)
+[Grafica de Barras](challenge-para-decidir-venta/images/grafo-barras.png)
+
+[Grafica de Pie](challenge-para-decidir-venta/images/grafo-pie.png)
+
+[Grafica de distribución](challenge-para-decidir-venta/images/grafo-distribucion.png)
 
 ## Instrucciones de copilación.
 
