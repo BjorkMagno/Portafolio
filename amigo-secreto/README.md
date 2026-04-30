@@ -1,12 +1,39 @@
-<h1 align="center">Amigo Secreto</h1>
+# 🎁 Amigo Secreto — Sorteo en JavaScript
 
-  <h3 align="right"><i>Version en Español.</i></h3>
+Aplicación web interactiva para realizar un sorteo de “amigo secreto”, desarrollada con HTML, CSS y JavaScript.
+
+## 💡 Descripción
+
+El proyecto permite ingresar nombres en una lista y realizar un sorteo aleatorio para seleccionar un participante.
+
+Está enfocado en la manipulación del DOM, validación de datos y lógica básica en JavaScript, junto con una interfaz sencilla y estilizada.
+
+## ⚙️ Funcionalidades
+* Agregar nombres a una lista dinámica.
+* Validación de entradas. (vacíos y duplicados)
+* Visualización en tiempo real de participantes.
+* Sorteo aleatorio de un amigo.
+* Reinicio del estado de la aplicación.
   
-  - ***Estado del Proyecto :*** Funcionalidad basica.
+## 🧩 Estructura
+* HTML
+  * Estructura de la interfaz.
+  * Inputs, listas y botones.
+* CSS
+  * Estilos visuales.
+  * Diseño responsive básico.
+  * Uso de variables para colores.
+* JavaScript
+  * Manejo de eventos.
+  * Manipulación del DOM.
+  * Lógica del sorteo y validaciones.
     
-  - ***Descrpción:*** Aplicación web sencilla, desarrollado principalmente con <i>Java Scrip combinado con HTML y CSS</i> su funcionalidad radica en <i>sortear un amigo de una lista de amigos ingresada por el usuario.</i>
+## 🛠️ Tecnologías
+* HTML5
+* CSS3
+* JavaScript
     
-  <h2>Descripción del código JS.</h2>
+  <h2>🧩 Descripción del código JS.</h2>
   
   1. Se creó una función ***impresionListaAmigos()*** encargada de la impresión de la lista de amigos ingresados correctamente.
   ```javascript
@@ -68,3 +95,12 @@
         return;
       }
  ```
+## 🎯 Enfoque
+* Interactividad en el navegador.
+* Manipulación dinámica de elementos.
+* Validación de datos del usuario.
+* Lógica de selección aleatoria.
+
+## 📌 Nota
+
+Proyecto orientado a fundamentos de desarrollo frontend y lógica en JavaScript, con énfasis en interacción usuario-aplicación.
