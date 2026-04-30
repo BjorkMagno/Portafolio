@@ -14,15 +14,15 @@ Se prioriza la creación de visualización de datos claras, consistentes y útil
 
 ## 🛠️ Herramientas utilizadas
 🔹 Power BI
-* Desarrollo de dashboards interactivos
-* Diseño de visualizaciones orientadas a insights
-* Creación de medidas con DAX
-* Modelado relacional de datos
+* Desarrollo de dashboards interactivos.
+* Diseño de visualizaciones orientadas a insights.
+* Creación de medidas con DAX.
+* Modelado relacional de datos.
   
 🔹 Power Query
-* Procesos ETL (Extracción, Transformación y Carga)
-* Limpieza y transformación de datos
-* Integración de múltiples fuentes
+* Procesos ETL. (Extracción, Transformación y Carga)
+* Limpieza y transformación de datos.
+* Integración de múltiples fuentes.
   
 ## 📁 Estructura del repositorio
 ```
@@ -41,46 +41,46 @@ Se prioriza la creación de visualización de datos claras, consistentes y útil
 Cada proyecto incluye:
 
 * Dataset
-  * Datos originales o simulados
-  * Estructura organizada para análisis
-  * Documentación básica del origen
+  * Datos originales o simulados.
+  * Estructura organizada para análisis.
+  * Documentación básica del origen.
     
 * Transformación de datos (Power Query)
-  * Limpieza de datos
-  * Manejo de valores nulos
-  * Normalización y estructuración
-  * Creación de columnas derivadas
+  * Limpieza de datos.
+  * Manejo de valores nulos.
+  * Normalización y estructuración.
+  * Creación de columnas derivadas.
     
 * Modelado de datos
-  * Definición de relaciones entre tablas
-  * Esquemas tipo estrella (cuando aplica)
-  * Optimización para análisis
-  * Cardinalidad de la relación
+  * Definición de relaciones entre tablas.
+  * Esquemas tipo estrella.
+  * Optimización para análisis.
+  * Cardinalidad de la relación.
     
 * Métricas y DAX
-  * Medidas calculadas
+  * Medidas calculadas.
 
 * Dashboard
-  * Visualizaciones interactivas
-  * Segmentación de datos (filtros, slicers)
-  * Diseño enfocado en claridad y usabilidad
+  * Visualizaciones interactivas.
+  * Segmentación de datos. (filtros, slicers)
+  * Diseño enfocado en claridad y usabilidad.
     
 ## 📈 Tipos de análisis
-* Análisis de ventas
-* Análisis temporal (tendencias)
-* Comparativas entre categorías
-* Identificación de patrones
+* Análisis de ventas.
+* Análisis temporal. (tendencias)
+* Comparativas entre categorías.
+* Identificación de patrones.
 
 ## 🧠 Metodología
 
 Cada proyecto sigue una estructura general:
 
-1. Carga de datos
-1. Transformación (Power Query)
-1. Modelado de datos
-1. Creación de métricas (DAX)
-1. Construcción del dashboard
-1. Análisis e interpretación
+1. Carga de datos.
+1. Transformación. (Power Query)
+1. Modelado de datos.
+1. Creación de métricas. (DAX)
+1. Construcción del dashboard.
+1. Análisis e interpretación.
    
 ## 🎯 Objetivo
 
