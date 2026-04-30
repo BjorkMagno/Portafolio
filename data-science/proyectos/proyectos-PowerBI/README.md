@@ -1,4 +1,4 @@
-## 📊 Power BI Data Visualization & Data Modeling — Portfolio
+## 📊 Data Visualization & Data Modeling with Power BI — Portfolio
 
 Repositorio enfocado en el desarrollo de proyectos en Power BI, integrando transformación de datos, modelado y visualización interactiva para el análisis y comunicación efectiva de información.
 
