@@ -43,19 +43,20 @@ Posteriormente se desarrolla un <b>Análisis Exploratorio de Datos (EDA)</b> enf
 TelecomX/
 │
 ├── README.md
-├── TelecomX_Data.json
-├── TelecomX_DataTreat.json
 ├── TelecomX_ETL.ipynb
 │
 ├── data/
 │   ├── raw/
+|        └── TelecomX_Data.json
 │   └── processed/
+|        └── TelecomX_DataTrate.json
 │
-├── reports/
-│   ├── figures/
-│   └── analysis/
-│
-└── assets/
+└── reports/
+    ├── figures/
+    |    ├── Categorical_Variables
+    |    └── Numerical_Variables
+    └── analysis/
+        └── TelecomX_Analysis.ipynb
 </pre>
 
 <hr>
