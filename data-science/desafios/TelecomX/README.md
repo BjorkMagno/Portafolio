@@ -47,7 +47,7 @@ TelecomX/
 │
 ├── data/
 │   ├── raw/
-|        └── TelecomX_Data.json
+|   |    └── TelecomX_Data.json
 │   └── processed/
 |        └── TelecomX_DataTrate.json
 │
