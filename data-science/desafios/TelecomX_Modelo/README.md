@@ -49,11 +49,8 @@ TelecomX_Modelo/
 ├── data/
 │   └── raw/TelecomX_DataTreat.json
 │
-├── models/
-│   └── exported/predicion_cancelacion.pkl
-│
-└── reports/
-      └── conclusions/
+└── models/
+    └── exported/predicion_cancelacion.pkl
 
 </pre>
 
