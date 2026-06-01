@@ -50,7 +50,7 @@ TelecomX_Modelo/
 │   └── raw/TelecomX_DataTreat.json
 │
 ├── models/
-│   └── exported/modelo_exportado.pkl
+│   └── exported/predicion_cancelacion.pkl
 │
 └── reports/
       └── conclusions/
